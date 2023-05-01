@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:kalkulator/theme.dart';
+import 'package:kalkulator/tema.dart';
 
 class Body extends StatefulWidget {
   const Body({super.key});
